@@ -1,1 +1,1 @@
-# shynri.github.io
+# shynri
